@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @clickdealerbot
 - 👀 I’m interested in automation
-- 🌱 I’m currently learning github actions
-- 💞️ I’m looking to collaborate on every project
+- 🌱 I’m currently learning lots of new tricks
+- 💞️ I’m looking to collaborate on @clickdealer projects
 - 📫 You can reach me via github actions
 
 <!---
